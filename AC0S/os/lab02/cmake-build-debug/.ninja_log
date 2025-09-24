@@ -1,0 +1,8 @@
+# ninja log v5
+2	145	1713254355029426374	CMakeFiles/ACOS_Homework_Lecture_2.dir/task3.c.o	10fd946f2ade41c9
+1	187	1713252211863601147	CMakeFiles/ACOS_Homework_Lecture_2.dir/task1.c.o	358f845f3f308168
+1	27	1713251227879063742	CMakeFiles/ACOS_Homework_Lecture_2.dir/main.c.o	e781d7bef6f5fb18
+0	163	1713254710627411051	CMakeFiles/ACOS_Homework_Lecture_2.dir/task4.c.o	71f1c7de354b582b
+2	50	1713255025836623896	build.ninja	28ce14141f16f812
+163	210	1713254710674542545	ACOS_Homework_Lecture_2	3faaf614871beced
+2	137	1713252504835902864	CMakeFiles/ACOS_Homework_Lecture_2.dir/task2.c.o	774d105bdfe0c2c9

@@ -1,0 +1,15 @@
+task 5
+addi x11, x12, 5 #IF 
+add  x13, x11, x12 # 1 ID, 2 IF
+addi x14, x11, 15 # 1 EX, 2 ID, 3 IF
+add  x15, x11, x11 # 1 WB, 2 EX, 3 ID
+Answer: x15 = (x12 + 5) + (x12 + 5)
+
+task 6
+addi x11, x12, 5
+nop
+nop
+add  x13, x11, x12
+nop
+addi x14, x11, 15
+add  x15, x13, x12

@@ -1,0 +1,3 @@
+/Users/nikitakalinin/CLionProjects/ACOS_Homework_Lecture_2/cmake-build-debug/CMakeFiles/ACOS_Homework_Lecture_2.dir
+/Users/nikitakalinin/CLionProjects/ACOS_Homework_Lecture_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nikitakalinin/CLionProjects/ACOS_Homework_Lecture_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
